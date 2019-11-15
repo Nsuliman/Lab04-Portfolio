@@ -1793,26 +1793,26 @@ input, select, textarea {
 
 /* List */
 
-	ul {
+	/* ul {
 		list-style: disc;
 		padding-left: 1em;
-	}
+	} */
 
-		ul li {
+		/* ul li {
 			padding-left: 0.5em;
-		}
+		} */
 
-	ol {
+	/* ol {
 		list-style: decimal;
 		padding-left: 1.25em;
-	}
-
+	} */
+/* 
 		ol li {
 			padding-left: 0.25em;
-		}
+		} */
 
 /* Icons */
-
+/* 
 	ul.icons {
 		cursor: default;
 		list-style: none;
@@ -1831,17 +1831,17 @@ input, select, textarea {
 			line-height: 2em;
 			text-align: center;
 			border: 0;
-		}
+		} */
 
 /* Form */
 
-	form label {
+	/* form label {
 		display: block;
 		text-align: left;
 		margin-bottom: 0.5em;
-	}
+	} */
 
-	form input[type="text"],
+	/* form input[type="text"],
 	form input[type="email"],
 	form input[type="password"],
 	form select,
@@ -1862,8 +1862,8 @@ input, select, textarea {
 		-webkit-transition: all 0.35s ease-in-out;
 		-ms-transition: all 0.35s ease-in-out;
 		transition: all 0.35s ease-in-out;
-	}
-
+	} */
+/* 
 		form input[type="text"]:focus,
 		form input[type="email"]:focus,
 		form input[type="password"]:focus,
@@ -1902,11 +1902,12 @@ input, select, textarea {
 
 	form ::-moz-focus-inner {
 		border: 0;
-	}
+	} */
+
 
 /* Table */
 
-	table {
+	/* table {
 		width: 100%;
 		text-align: left;
 	}
@@ -1933,11 +1934,11 @@ input, select, textarea {
 
 		table tfoot {
 			background: #eee;
-		}
+		} */
 
 /* Button */
 
-	input[type="button"],
+	/* input[type="button"],
 	input[type="submit"],
 	input[type="reset"],
 	button,
@@ -1959,9 +1960,9 @@ input, select, textarea {
 		-webkit-transition: background-color 0.35s ease-in-out;
 		-ms-transition: background-color 0.35s ease-in-out;
 		transition: background-color 0.35s ease-in-out;
-	}
+	} */
 
-		input[type="button"]:hover,
+		/* input[type="button"]:hover,
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,
 		button:hover,
@@ -1975,16 +1976,16 @@ input, select, textarea {
 		button:active,
 		.button:active {
 			background-color: #7eaeac;
-		}
+		} */
 
 /* Item */
 
-	.item {
+	/* .item {
 		box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
 		margin-bottom: 40px;
-	}
+	} */
 
-		.item header {
+		/* .item header {
 			background: #fff;
 			margin: 0;
 			padding: 1em 0 1em 0;
@@ -1993,15 +1994,15 @@ input, select, textarea {
 
 			.item header h3 {
 				font-size: 1em;
-			}
+			} */
 
 /* Icons */
 
-	.icon {
+	/* .icon {
 		text-decoration: none;
-	}
+	} */
 
-		.icon:before {
+		/* .icon:before {
 			display: inline-block;
 			font-family: FontAwesome;
 			font-size: 1.25em;
@@ -2015,11 +2016,11 @@ input, select, textarea {
 
 		.icon > .label {
 			display: none;
-		}
+		} */
 
 /* Header */
 
-	#header {
+	/* #header {
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
@@ -2042,7 +2043,7 @@ input, select, textarea {
 		text-align: right;
 		top: 0;
 		width: 375px;
-	}
+	} */
 
 		#header .top {
 			-moz-flex-grow: 1;
