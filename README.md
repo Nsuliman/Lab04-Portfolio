@@ -4,8 +4,8 @@
 
 ## Estimate of time needed to complete: Three Hour 
 
-## Start time: 9:21pm
+## Start time: 9:21 PM 
 
-## Finish time: 01:25
+## Finish time: 01:25 AM
 
 ## Actual time needed to complete: 4 Hours 04 Minutes 
