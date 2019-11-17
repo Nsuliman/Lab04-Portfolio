@@ -5,7 +5,7 @@ html {
 
 a:hover {
     color: rgb(194, 26, 166);
-    border-bottom-color: rgba(255, 255, 255, 0);
+    border-bottom-color: rgba(180, 14, 14, 0);
 }
 
 
@@ -14,12 +14,12 @@ a:hover {
 }
 
 body {
-    background: #fff;
+    background: rgb(6, 105, 129);
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
-    color: #888;
+    color: rgb(9, 130, 211);
 }
 
     body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -34,16 +34,18 @@ body {
     }
 
 input, textarea, select {
-    font-family: 'Source Sans Pro', sans-serif;
+    /* font-family: 'Source Sans Pro', sans-serif; */
+    font-family: 'Calistoga', cursive;
     font-size: 19pt;
     font-weight: 300;
     line-height: 1.75em;
-    color: #888;
+    color: rgb(181, 184, 11);
 }
 
 h1, h2, h3, h4, h5, h6 {
+    font-family: 'Calistoga', cursive;
     font-weight: 300;
-    color: #666;
+    color: rgb(163, 2, 136);
     line-height: 1.5em;
 }
 

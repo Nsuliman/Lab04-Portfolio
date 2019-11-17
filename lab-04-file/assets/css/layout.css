@@ -118,6 +118,7 @@ input[type="button"],
                 line-height: 1.75em;
             }
 	#main > section {
+			font-family: 'Courgette', cursive;
 			margin: 0;
 			overflow: hidden;
 			padding: 4em 0;
@@ -127,8 +128,8 @@ input[type="button"],
         }
         
         #main > section.one {
-            background-color: #81918E;
-            background-image: url("../../images/banner.jpg");
+            background-color: rgb(9, 117, 160);
+            background-image: url("../../images/secbanner.jpg");
         }
 
         
